@@ -156,7 +156,7 @@
       "value": 2
     },
     "hielo": {
-      "label": "Congelar (50)",
+      "label": "Congelar (120)",
       "cost": 120,
       "decorator": "Slow",
       "target": "enemies",
