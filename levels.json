@@ -424,7 +424,7 @@
   },
   "prepTime": 10,
   "maxTowers": 20,
-  "cheat": { "hash": "61ecfd3d3f3c9467d04809b68feeca4e88815d88a5ac0a3c48c603f9cce43f5a", "length": 9, "gold": 2000, "maxTowers": 60, "extraPrep": 10 },
+  "cheat": { "hash": "61ecfd3d3f3c9467d04809b68feeca4e88815d88a5ac0a3c48c603f9cce43f5a", "length": 9, "gold": 1000, "maxTowers": 60, "extraPrep": 5 },
   "score": {
     "kill": 10,
     "level": 100,
